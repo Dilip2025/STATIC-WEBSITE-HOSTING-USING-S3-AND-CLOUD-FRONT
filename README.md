@@ -16,7 +16,6 @@ Then Finally Link the CloudFront CDN and S3
 
 **index.html**
 
-# HTML for SSB KART
 
 ```html
 <!DOCTYPE html>
@@ -35,7 +34,7 @@ Then Finally Link the CloudFront CDN and S3
     <a href="signup.html">signUp</a>
 </body>
 </html>
-
+```
 
 **webpage will look like this.**
 
