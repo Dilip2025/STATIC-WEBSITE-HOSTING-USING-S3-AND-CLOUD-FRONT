@@ -1,4 +1,31 @@
 # STATIC-WEBSITE-HOSTING-USING-S3-AND-CLOUD-FRONT
+![sc-1](https://github.com/user-attachments/assets/8aceefc7-3ef4-44f4-a173-63a8675e1033)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 This project demonstrates the implementation of a scalable, cost-effective, and highly available static website hosting solution using Amazon S3 and Amazon CloudFront. By leveraging AWS services, the website ensures fast and secure content delivery to users globally, with minimal infrastructure management
 
