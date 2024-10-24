@@ -16,7 +16,6 @@ Then Finally Link the CloudFront CDN and S3
 
 **index.html**
 
-'''code
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,12 +26,18 @@ Then Finally Link the CloudFront CDN and S3
     <script src="script.js"></script>
 </head>
 <body>
-    <h1>welcome to SSB KART</h1>
-    <button onclick="alert()">click</button><br><br>
-    <a href="login.html">login</a><br><br>
-    <a href="signup.html">signUp</a>
+    <h1>Welcome to SSB KART</h1>
+    
+    <!-- Button that triggers an alert -->
+    <button onclick="alert('Button clicked!')">Click</button><br><br>
+    
+    <!-- Links to login and signup pages -->
+    <a href="login.html">Login</a><br><br>
+    <a href="signup.html">Sign Up</a>
+
 </body>
 </html>
+
 
 **webpage will look like this.**
 
