@@ -16,6 +16,7 @@ Then Finally Link the CloudFront CDN and S3
 
 **index.html**
 
+'''code
 <!DOCTYPE html>
 <html lang="en">
 <head>
